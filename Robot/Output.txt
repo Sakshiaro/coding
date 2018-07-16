@@ -1,0 +1,6 @@
+Walked distance(km) : 3.5
+Charge consumed : 70%
+Charge remaining: 30%
+Robot HeadLight Color : GREEN
+Battery not sufficiently charged
+Overweight
